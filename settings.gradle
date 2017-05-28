@@ -1,0 +1,3 @@
+include ':jazzylistview', ':aspectj'
+include ':pagerslidingtabstrip'
+include ':app'

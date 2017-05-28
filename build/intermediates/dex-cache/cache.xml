@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.9\87372d9e2323313bec24b09a325bfea8ae0eb867\aspectjrt-1.8.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="87372d9e2323313bec24b09a325bfea8ae0eb867">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.9_19e3ee16462c01bced29d092823a0d4ef5518259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="30883c965f8238b2fe0afe92664163b10bbef748">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\instant-run_bd69c10dc8e98efb4f473c8e96ce07e932f6c314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-21.0.3_adb42114288cd013a3447d3232c37c7868dd5d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.6\a845a88238be0b5be9d238652c1bc0605ef91f52\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_5a630ff202864110b16c4be109449652d61c945c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\android-viewbadger.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\android-viewbadger_f76e049612053d289b4908e3c6063cb3f5120dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_bcbd5ddabee83debfd558d97b79dceff0c7f9b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\library-2.4.0_5fc3bf9abe74cb822c2b7b43066092544a094e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_774e63cd15699d9af1693dd37dd3824c78380818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_572e1e7162e6605d202a5a76c5b51e317b0f54f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_6d362c4b3cc63ba372f468822d1d96f0258592a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_cff1e94220b6d694dbd0d32914edf9a97e32c95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina_dd1a6feb9a1f7f7d077b97fcc034297dbcaefecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_4cc59cc10c72539a3ce7ab46a3703809bd08c62e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_572e1e7162e6605d202a5a76c5b51e317b0f54f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_be44bb500082223dc6618e12420bfdb3bfd2223d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidstudio\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_81de2b60f5d3d06a2ff1687d5b82a43e639e605a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-1.3.0_ed812ea5f8fa1bd2bf254dfc4879c8b772e6dff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.0_4dbfe3a09fc36b07297e762a8a8dc19f7e4f4f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_6569b384937a40e343a31debd3307e4a46e37597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="91708565b87b5cba54d0417aff9434ef69b103d1">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_26a47a5ca05440eb2091bbe782f01e71f7138b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\jsoup-1.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1_edc8b2b86203e96823a2429538d0ced17f2319c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_e031dca499f93a50233a1b9ada6411516b11145d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\org.ccil.cowan.tagsoup\tagsoup\1.2.1\5584627487e984c03456266d3f8802eb85a9ce97\tagsoup-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5584627487e984c03456266d3f8802eb85a9ce97">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\tagsoup-1.2.1_88e10645e0e5b4c62c4c5a951f47ea32c8b38fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_3847b5d68e8d8f32e023b66b61a72600c8d25875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_29bef1ddf2cb2fa1f5fb514b03750505e2d55947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_c9929ffa51cead814d88eabac5c15a1258d65578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_8f3c57be3fdca6069d368cc07ac08ec4faef1635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.6\a845a88238be0b5be9d238652c1bc0605ef91f52\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_5a630ff202864110b16c4be109449652d61c945c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-1.3.0_ed812ea5f8fa1bd2bf254dfc4879c8b772e6dff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_b5f75d9e009396eb969ada6c102435967fcec321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.0\8d988e1e13f64c0e8e9d935e347f510f712b376b\analytics-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8d988e1e13f64c0e8e9d935e347f510f712b376b">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\analytics-6.1.0_ff566b0d24633c341fee7faecf02a5154c17d482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_fbc69366f41b9a058012b68e12d4f6252e848608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5a01801b9f9f7236ef08979eb31fd678a07c3742">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3_7b0da110de84f433f22b309038314800467bae76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_4cc59cc10c72539a3ce7ab46a3703809bd08c62e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3_1cc5b2664a55fbd7dd28cb1b1b983d3bc35df8d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5a01801b9f9f7236ef08979eb31fd678a07c3742">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3_7b0da110de84f433f22b309038314800467bae76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_cff1e94220b6d694dbd0d32914edf9a97e32c95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_60e718d6f34548e5070dd29ea950be2fede9267a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2_3e043cd6846d1b8ae10d6f7495d1087e8b4cf848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\andriod-studio\workspace\v2ex-android\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\andriod-studio\workspace\v2ex-android\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_6569b384937a40e343a31debd3307e4a46e37597.jar" />
+    </item>
+
+</items>

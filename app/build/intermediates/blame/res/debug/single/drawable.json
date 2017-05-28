@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechatfriends_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_wechatfriends_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_shadow.9.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_comment.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\checkbox_comment.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechat_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_wechat_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_icon_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\send_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_item_click_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\common_item_click_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_copy_link_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_copy_link_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\v2ex-android\\pagerslidingtabstrip\\unspecified\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_sinaweibo_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_sinaweibo_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_qq_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_qq_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_more_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_more_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_add_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\menu_add_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "D:\\andriod-studio\\workspace\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_follow_off.png"
+    }
+]
